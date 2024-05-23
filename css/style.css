@@ -66,13 +66,13 @@ nav{
 	padding-top: 25px;
 }
 .social-media{
-	padding-top: 10px;
+	padding-top: 12px;
 }
 .social-media a{
-	margin-right: 20px;
+	margin-right: 10px;
 }
 .social-media ul li a{
-	padding: 10px 25px;
+	padding: 12px 25px;
 }
 .box{
 	width: 100%;
@@ -130,9 +130,11 @@ aside ul li a:hover{
 }
 .top-bar a:hover{
 	color: #F9E795;
+	
 }
 .navbar .navbar-nav .nav-item .nav-link:hover{
 	color: #F9E795;
+	
 }
 .navbar .navbar-nav .nav-item .dropdown-menu{
 	background-color: #F9E795;
@@ -140,13 +142,13 @@ aside ul li a:hover{
 	padding-top: 0;
 }
 .navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item{
-	color: white;
+	color: #2F3C7E;
 }
 .navbar .navbar-nav .nav-item .dropdown-menu li{
 	border-bottom: 1px solid white;
 }
 .navbar .navbar-nav .nav-item .dropdown-menu .dropdown-item:hover{
-	background-color: #F9E795;
+	background-color: #8AAAE5;
 }
 
 .tintuc{
@@ -259,5 +261,11 @@ color: white;
 }
 .main-bg{
 	background-color: #101820;
+}
+.main-cl{
+	color: #F9E795;
+}
+.main-nen{
+	color: #8AAAE5;
 }
 
